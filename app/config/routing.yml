@@ -1,0 +1,4 @@
+kay_platform:
+    resource: "@KAYPlatformBundle/Resources/config/routing.yml"
+    prefix:   /
+

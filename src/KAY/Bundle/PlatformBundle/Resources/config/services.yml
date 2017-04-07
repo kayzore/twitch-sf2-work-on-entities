@@ -1,0 +1,4 @@
+services:
+#    kay_platform.example:
+#        class: KAY\Bundle\PlatformBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
